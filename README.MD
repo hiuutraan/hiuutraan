@@ -1,9 +1,5 @@
 <!--
-  ✨ GitHub Profile README — easy customization guide
-
-  1. Replace any remaining editable fields with your own information.
-  2. Remove any section you do not need.
-  3. Keep the optional add-ons at the bottom for future upgrades.
+  Profile README for Tran Trung Hieu.
 -->
 
 <div align="center">
@@ -12,34 +8,34 @@
     alt="A purple and navy waving header"
   />
 
-<h1>Hi, I'm Tran Trung Hieu 👋</h1>
+  <h1>Hi, I'm Tran Trung Hieu 👋</h1>
 
   <p>
-    <em>A curious student discovering new ideas, collecting experiences, and enjoying the journey.</em>
+    <em>Student, technology enthusiast, and Ariana Grande listener.</em>
   </p>
 
   <p>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <a href="https://github.com/hiuutraan">
       <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:YOUR_EMAIL@example.com">
+    <a href="mailto:trantrunghieu210289@gmail.com">
       <img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <a href="https://www.linkedin.com/in/hiuutraan">
       <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7C3AED&label=PROFILE+VISITS" alt="Profile visits" />
+  <img src="https://komarev.com/ghpvc/?username=hiuutraan&style=flat-square&color=7C3AED&label=PROFILE+VISITS" alt="Profile visits" />
 </div>
 
 <br />
 
 ## 🌿 A little about me
 
-I'm a student at **University of Economics - Technology for Industries** who enjoys discovering how things work from a real user's point of view. I'm not a professional developer — this is simply my small corner of the internet for sharing interests, learning moments, personal projects, and things that make life more interesting.
+I'm a student at **University of Economics - Technology for Industries**. I enjoy technology, AI, music, and learning how digital products work from a user's point of view.
 
-I believe you do not have to be a coder to be curious, creative, or part of the digital world. Every small step counts. ✨
+I am currently learning software development and collecting small projects and notes as I go.
 
 ## ✨ At a glance
 
@@ -80,22 +76,20 @@ I believe you do not have to be a coder to be curious, creative, or part of the 
 
 ## 📚 My learning corner
 
-Right now, I'm exploring **technology, AI, and software development** and trying to learn something useful every day. I like simple explanations, practical examples, and learning at my own pace.
-
-> “Small progress is still progress.” 🌱
+I'm learning **technology, AI, and software development** at my own pace. I prefer simple explanations and practical examples.
 
 ## 🧭 What you can find here
 
-This profile may contain:
+Here I share:
 
-- Notes, reflections, and things I am learning
-- Personal interests, experiments, and creative ideas
-- Useful resources I want to remember
-- Small milestones from my student journey
+- Notes about things I am learning
+- Personal interests and small experiments
+- Useful resources
+- Updates from student life
 
 ## 💌 Let's connect
 
-If you would like to say hello, share an interesting idea, or recommend something, feel free to reach out:
+You can reach me here:
 
 <div align="center">
 
@@ -107,44 +101,11 @@ If you would like to say hello, share an interesting idea, or recommend somethin
 <br />
 
 <a href="https://github.com/hiuutraan">
-  <img src="https://img.shields.io/badge/Follow%20my%20journey-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow my journey on GitHub" />
+  <img src="https://img.shields.io/badge/Visit%20my%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub" />
 </a>
 
 </div>
 
-## 🌟 A small reminder
-
 <div align="center">
-
-### You do not have to build software to build something meaningful.
-
-*Stay curious. Be kind. Keep going.* 💜
-
-</div>
-
-<details>
-  <summary><strong>🚀 Optional add-ons for the future</strong></summary>
-
-  <br />
-
-  When you are ready, you can make this profile even more personal by adding:
-
-  - **GitHub statistics** — a visual summary of your activity
-  - **Contribution streak** — a fun way to celebrate consistency
-  - **Pinned project cards** — highlight a website, school project, or favorite resource
-  - **Contribution snake** — turn your contribution calendar into an animation
-  - **Now playing** — show the music you are currently listening to
-  - **A personal website** — connect this profile to your own online space
-  - **A quote or “currently watching” section** — let people see more of your personality
-
-  <br />
-
-  > Tip: Add one feature at a time. A profile that feels like you is better than one that tries to show everything.
-
-</details>
-
-<br />
-
-<div align="center">
-  <sub>Made with curiosity, patience, and a little bit of ✨</sub>
+  <sub>Thanks for visiting.</sub>
 </div>
