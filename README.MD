@@ -1,10 +1,9 @@
 <!--
   ✨ GitHub Profile README — easy customization guide
 
-  1. Replace every [PLACEHOLDER] with your own information.
-  2. Replace YOUR_GITHUB_USERNAME in links and image URLs.
-  3. Remove any section you do not need.
-  4. Keep the optional add-ons at the bottom for future upgrades.
+  1. Replace any remaining editable fields with your own information.
+  2. Remove any section you do not need.
+  3. Keep the optional add-ons at the bottom for future upgrades.
 -->
 
 <div align="center">
@@ -13,7 +12,7 @@
     alt="A purple and navy waving header"
   />
 
-  <h1>Hi, I'm [YOUR NAME] 👋</h1>
+<h1>Hi, I'm Tran Trung Hieu 👋</h1>
 
   <p>
     <em>A curious student discovering new ideas, collecting experiences, and enjoying the journey.</em>
@@ -38,7 +37,7 @@
 
 ## 🌿 A little about me
 
-I'm a student at **[YOUR SCHOOL / UNIVERSITY]** who enjoys discovering how things work from a real user's point of view. I'm not a professional developer — this is simply my small corner of the internet for sharing interests, learning moments, personal projects, and things that make life more interesting.
+I'm a student at **University of Economics - Technology for Industries** who enjoys discovering how things work from a real user's point of view. I'm not a professional developer — this is simply my small corner of the internet for sharing interests, learning moments, personal projects, and things that make life more interesting.
 
 I believe you do not have to be a coder to be curious, creative, or part of the digital world. Every small step counts. ✨
 
@@ -48,10 +47,10 @@ I believe you do not have to be a coder to be curious, creative, or part of the 
 
 | | Details | | Details |
 |:---:|:---|:---:|:---|
-| 🎓 | **School**<br>[YOUR SCHOOL] | 🎂 | **Birthday**<br>[MONTH / YEAR] |
-| ♈ | **Zodiac sign**<br>[YOUR ZODIAC SIGN] | 🌍 | **Based in**<br>[CITY, COUNTRY] |
-| 💬 | **Languages**<br>[LANGUAGES YOU SPEAK] | 🌱 | **Currently learning**<br>[A TOPIC OR SKILL] |
-| ☕ | **My fuel**<br>[COFFEE / TEA / ...] | 🎧 | **Usually listening to**<br>[YOUR MUSIC TASTE] |
+| 🎓 | **School**<br>University of Economics - Technology for Industries | 🎂 | **Birthday**<br>February 2008 |
+| ♈ | **Zodiac sign**<br>Pisces | 🌍 | **Based in**<br>Phu Tho, Viet Nam |
+| 💬 | **Languages**<br>Vietnamese, English | 🌱 | **Currently learning**<br>Software development |
+| ☕ | **My fuel**<br>Sprite | 🎧 | **Usually listening to**<br>Pop, R&B, Jersey club |
 
 </div>
 
@@ -62,19 +61,18 @@ I believe you do not have to be a coder to be curious, creative, or part of the 
     <td width="50%">
       <h3>🎨 In my free time</h3>
       <ul>
-        <li>[HOBBY 1]</li>
-        <li>[HOBBY 2]</li>
-        <li>[HOBBY 3]</li>
-        <li>[HOBBY 4]</li>
+      <li>Exploring AI and AI training</li>
+      <li>Sleeping and recharging</li>
+      <li>Discovering exciting technology</li>
       </ul>
     </td>
     <td width="50%">
       <h3>🌈 Things that inspire me</h3>
       <ul>
-        <li>[A PERSON / CREATOR / BOOK]</li>
-        <li>[A PLACE OR EXPERIENCE]</li>
-        <li>[A TOPIC YOU LOVE]</li>
-        <li>[A SMALL THING THAT MAKES YOU HAPPY]</li>
+      <li>Ariana Grande</li>
+      <li>Discovering new places and experiences</li>
+      <li>Technology, AI, and software development</li>
+      <li>A cold Sprite and a good song</li>
       </ul>
     </td>
   </tr>
@@ -82,7 +80,7 @@ I believe you do not have to be a coder to be curious, creative, or part of the 
 
 ## 📚 My learning corner
 
-Right now, I'm exploring **[WHAT YOU ARE CURIOUS ABOUT]** and trying to learn something useful every day. I like simple explanations, practical examples, and learning at my own pace.
+Right now, I'm exploring **technology, AI, and software development** and trying to learn something useful every day. I like simple explanations, practical examples, and learning at my own pace.
 
 > “Small progress is still progress.” 🌱
 
@@ -101,14 +99,14 @@ If you would like to say hello, share an interesting idea, or recommend somethin
 
 <div align="center">
 
-**[YOUR NAME]** · [YOUR CITY, COUNTRY]
+**Tran Trung Hieu** · Phu Tho, Viet Nam
 
-<a href="mailto:YOUR_EMAIL@example.com">YOUR_EMAIL@example.com</a>
+<a href="mailto:trantrunghieu210289@gmail.com">trantrunghieu210289@gmail.com</a>
 
 <br />
 <br />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/hiuutraan">
   <img src="https://img.shields.io/badge/Follow%20my%20journey-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow my journey on GitHub" />
 </a>
 
