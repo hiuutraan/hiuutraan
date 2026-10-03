@@ -1,111 +1,75 @@
 <!--
-  Profile README for Tran Trung Hieu.
+Cá nhân hóa các giá trị YOUR_* trước khi dùng. Giữ lại những badge công nghệ và liên kết bạn thực sự sử dụng.
 -->
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=190&section=header&text=Hello%20there!&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
-    alt="A purple and navy waving header"
-  />
 
-  <h1>Hi, I'm Tran Trung Hieu 👋</h1>
+# YOUR_NAME
 
-  <p>
-    <em>Student, technology enthusiast, and Ariana Grande listener.</em>
-  </p>
+### Developer · Valorant player
 
-  <p>
-    <a href="https://github.com/hiuutraan">
-      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:trantrunghieu210289@gmail.com">
-      <img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/hiuutraan">
-      <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=hiuutraan&style=flat-square&color=7C3AED&label=PROFILE+VISITS" alt="Profile visits" />
-</div>
-
-<br />
-
-## 🌿 A little about me
-
-I'm a student at **University of Economics - Technology for Industries**. I enjoy technology, AI, music, and learning how digital products work from a user's point of view.
-
-I am currently learning software development and collecting small projects and notes as I go.
-
-## ✨ At a glance
-
-<div align="center">
-
-| | Details | | Details |
-|:---:|:---|:---:|:---|
-| 🎓 | **School**<br>University of Economics - Technology for Industries | 🎂 | **Birthday**<br>February 2008 |
-| ♈ | **Zodiac sign**<br>Pisces | 🌍 | **Based in**<br>Phu Tho, Viet Nam |
-| 💬 | **Languages**<br>Vietnamese, English | 🌱 | **Currently learning**<br>Software development |
-| ☕ | **My fuel**<br>Sprite | 🎧 | **Usually listening to**<br>Pop, R&B, Jersey club |
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_USER_ID)
 
 </div>
 
-## 💛 Things I enjoy
+## Về mình
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎨 In my free time</h3>
-      <ul>
-      <li>Exploring AI and AI training</li>
-      <li>Sleeping and recharging</li>
-      <li>Discovering exciting technology</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🌈 Things that inspire me</h3>
-      <ul>
-      <li>Ariana Grande</li>
-      <li>Discovering new places and experiences</li>
-      <li>Technology, AI, and software development</li>
-      <li>A cold Sprite and a good song</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Đang làm: **YOUR_CURRENT_PROJECT**
+- Đang học: **YOUR_CURRENTLY_LEARNING**
+- Quan tâm đến: **YOUR_INTERESTS**
 
-## 📚 My learning corner
+## Tech stack
 
-I'm learning **technology, AI, and software development** at my own pace. I prefer simple explanations and practical examples.
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-## 🧭 What you can find here
+## Valorant
 
-Here I share:
+| Khu vực | Agent chính | Rank hiện tại |
+|:---:|:---:|:---:|
+| `YOUR_REGION` | `YOUR_MAIN_AGENT` | `YOUR_CURRENT_RANK` |
 
-- Notes about things I am learning
-- Personal interests and small experiments
-- Useful resources
-- Updates from student life
+[![Valorant Tracker](https://img.shields.io/badge/Valorant_Tracker-FF4655?style=for-the-badge&logo=valorant&logoColor=white)](https://tracker.gg/valorant/profile/riot/YOUR_RIOT_ID%23YOUR_TAG/overview)
 
-## 💌 Let's connect
+## Discord
 
-You can reach me here:
+[![Discord profile](https://img.shields.io/badge/Discord_Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_USER_ID)
+[![Discord server](https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER_INVITE)
+
+`YOUR_DISCORD_TAG`
+
+<!-- Tùy chọn: bỏ comment để hiện Discord Rich Presence qua Lanyard.
+     Thay YOUR_DISCORD_USER_ID. Trạng thái hoạt động Discord có thể hiển thị công khai.
+<p align="center">
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
+    <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0d1117&borderRadius=12px" alt="Discord presence" />
+  </a>
+</p>
+-->
+
+## GitHub stats
 
 <div align="center">
 
-**Tran Trung Hieu** · Phu Tho, Viet Nam
-
-<a href="mailto:trantrunghieu210289@gmail.com">trantrunghieu210289@gmail.com</a>
-
-<br />
-<br />
-
-<a href="https://github.com/hiuutraan">
-  <img src="https://img.shields.io/badge/Visit%20my%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" alt="Top languages" />
 </a>
 
 </div>
 
-<div align="center">
-  <sub>Thanks for visiting.</sub>
-</div>
+## Liên hệ
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+
