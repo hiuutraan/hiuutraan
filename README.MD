@@ -15,9 +15,8 @@ Cá nhân hóa các giá trị YOUR_* trước khi dùng. Giữ lại những ba
 
 ## Về mình
 
-- Đang làm: **YOUR_CURRENT_PROJECT**
-- Đang học: **YOUR_CURRENTLY_LEARNING**
-- Quan tâm đến: **YOUR_INTERESTS**
+- Đang học: **Kiểm toán - Trường đại học Kinh tế - Kĩ thuật Công nghiệp Hà Nội**
+- Quan tâm đến: **Code, Game, Editing**
 
 ## Tech stack
 
@@ -34,9 +33,9 @@ Cá nhân hóa các giá trị YOUR_* trước khi dùng. Giữ lại những ba
 
 | Khu vực | Agent chính | Rank hiện tại |
 |:---:|:---:|:---:|
-| `YOUR_REGION` | `YOUR_MAIN_AGENT` | `YOUR_CURRENT_RANK` |
+| `VN` | `VIPER` | `BRONZE` |
 
-[![Valorant Tracker](https://img.shields.io/badge/Valorant_Tracker-FF4655?style=for-the-badge&logo=valorant&logoColor=white)](https://tracker.gg/valorant/profile/riot/YOUR_RIOT_ID%23YOUR_TAG/overview)
+[![Valorant Tracker](https://img.shields.io/badge/Valorant_Tracker-FF4655?style=for-the-badge&logo=valorant&logoColor=white)](https://tracker.gg/valorant/profile/riot/hiuutraan%232702/overview)
 
 ## Discord
 
